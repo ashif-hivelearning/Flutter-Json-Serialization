@@ -1,4 +1,4 @@
-# json_test
+# JSON Serialization in Flutter
 
 A new Flutter project.
 
